@@ -16,4 +16,5 @@
 
 ### AI
 * [一文搞懂 AI 流式响应](https://github.com/wangkaiwd/fe-blog/issues/7)
+* [问卷系统的AI化改造之路](https://github.com/wangkaiwd/fe-blog/issues/7)
   
